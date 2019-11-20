@@ -41,7 +41,7 @@ def sqrt(a):
     return c
 
 
-class calculator:
+class Mycalculator:
     result = 0
 
     def __init__(self):
